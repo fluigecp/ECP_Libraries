@@ -1,0 +1,13 @@
+application.type=widget
+application.code=ECP_Libraries
+application.title=Bibliotecas externa
+application.description=Bibliotecas externas do Fluig
+application.category=DEV
+application.renderer=freemarker
+developer.code=MK
+developer.name=Marcos
+developer.url=http://www.fluig.com
+application.uiwidget=true
+application.mobileapp=false
+view.file=view.ftl
+edit.file=edit.ftl
