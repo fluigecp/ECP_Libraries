@@ -5,3 +5,4 @@
  * jsPDF;
  * jsPDF-Autotable
  * HTMLtoJSON (Transforma uma tabela em JSON)
+ * Highcharts
