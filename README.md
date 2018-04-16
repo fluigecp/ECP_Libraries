@@ -6,3 +6,4 @@
  * jsPDF-Autotable
  * HTMLtoJSON (Transforma uma tabela em JSON)
  * Highcharts
+ * html2Canvas
