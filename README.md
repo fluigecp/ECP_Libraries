@@ -7,3 +7,4 @@
  * HTMLtoJSON (Transforma uma tabela em JSON)
  * Highcharts
  * html2Canvas
+ *Moment & Moment com Locais
